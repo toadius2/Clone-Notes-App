@@ -1,0 +1,1 @@
+<h1>Insert pictures</h1><div><ul><li>Click the top right picture button to insert the picture。</li><li></li></ul></div><div><img src="http://localhost:4201/note-iamge/test.png" data-size="0" style="width: calc(100% - 10px);"></div>
