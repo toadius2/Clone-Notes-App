@@ -1,5 +1,6 @@
 # react-mac-notes-app
 Steps to run are either of these depending on your setup:
+(Be sure to install necessary node modules locally first as well.)
 
 1. npm install
 2. npm start
